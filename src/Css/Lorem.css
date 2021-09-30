@@ -1,0 +1,17 @@
+.Lorem{
+    border: 5px solid rgb(255, 51, 85);
+    margin: 30px;
+    width: 50%;
+    line-height: 2;
+    color: rgb(87, 87, 87);
+    font-size: 18px;
+
+}
+.LoremFirst{
+    position:absolute;
+    margin: 30px;
+    width: 50%;
+    line-height: 2;
+    color: grey;
+}
+

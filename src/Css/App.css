@@ -1,0 +1,28 @@
+@import url('./Wine.css');
+@import url('./Lorem.css');
+
+*{
+    box-sizing: border-box;
+}
+
+html , body , #root , .App {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+body{
+    /* background: linear-gradient(23deg,rgb(73, 73, 73) , rgb(24, 24, 24));     */
+    background-image: url(../asset/bg.jpg);
+    background-size: cover;
+}
+
+.inputFocus:focus{
+    background-color: aqua;
+}
+
+.chestModel {
+    height: 100%;
+}
